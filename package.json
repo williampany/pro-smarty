@@ -1,0 +1,24 @@
+{
+  "name": "pro-smarty",
+  "version": "0.0.1",
+  "description": "Embedded Express Template Engine",
+  "main": "./lib/smarty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williampany/pro-smarty.git"
+  },
+  "keywords": [
+    "Express",
+    "Template",
+    "Smarty"
+  ],
+  "author": "williampany",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/williampany/pro-smarty/issues"
+  },
+  "homepage": "https://github.com/williampany/pro-smarty#readme"
+}
